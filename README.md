@@ -1,5 +1,3 @@
-# Private
-
 # 001. Prismを使ったMVVM  
 ## Prismを使うとこんな良いことが！  
 * DataContextを使用せずにViewとViewModelの紐づけをしてくれる  
